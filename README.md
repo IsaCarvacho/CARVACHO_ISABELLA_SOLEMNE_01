@@ -8,7 +8,7 @@ La artista que elegí para este cuadro fue ***@the_oblivious_mind*** en instagra
 ### Su trabajo
 ![The Oblivious Mind](https://i0.wp.com/breathethinklove.com/wp-content/uploads/2025/04/the-oblivious-mind1-2-edited.jpg?resize=968%2C968&ssl=1)
 
-Haciendo click en la imagen para conocer más de su trabajo
+__Haz click en la imagen para conocer más de su trabajo__
 [![Link](https://i.pinimg.com/736x/0f/82/ba/0f82ba20fdeaeb3177f44c0726dae434.jpg)](https://www.instagram.com/the_oblivious_mind?igsh=MTJsaXI0ZW9sczc5ZQ==)
 
 ### Mi reversión de la artista
@@ -24,3 +24,7 @@ Durante el proceso lo más difícil fue la generación de arcos, por los angulos
 entre sí. Para estos problemas solo fue ir probando dato a dato cuanto se movia con x número, también recordar que cada dato tenía su función, por ejemplo si la figura estaba muy angosta, y necesitaba que fuera más gruesa, no era necesario tocar el x,y. 
 
 Otro problema fue fuera de lo que es programar en si, a veces por error mio, o tratando de mdificar la figura, borraba algunos datos y de memoria no me los sabía, pero para eso por suerte llevaba una nota en mi celular donde rellenaba todos los datos en paralelo. 
+
+### Códigos usados (Junto con su comentario)
+### Resultado del ***Coding***
+### Link al proyecto en p5.js
