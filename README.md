@@ -16,8 +16,17 @@ Para mi trabajo busqué imitar la variedad de figuras, los círculos de borde ne
 
 ### Proceso de creación
 Comencé por los elementos que consideraba más importantes, los círculos de borde negro. Ya que para mi con estos se puede generar un orden dentro del lienzo y ver si las proporciones estan correctas. 
-Luego la generación de las líneas horizontales y verticales para poder diagramar mejor el lienzo. Después comencé a generar las figuras de arriba hacia abajo. En la parte inferior generé las figuras de izquierda a derecha para poder facilitar la generación de las nuevas a través de sumas
+
+![1](https://i.pinimg.com/736x/52/67/78/5267785278c62c90be38f174874f0826.jpg)
+
+Luego la generación de las líneas horizontales y verticales para poder diagramar mejor el lienzo. Después comencé a generar las figuras de arriba hacia abajo.
+
+![2](https://i.pinimg.com/736x/fa/93/18/fa9318342f33915cb9a88060570ef09a.jpg)
+
+En la parte inferior generé las figuras de izquierda a derecha para poder facilitar la generación de las nuevas a través de sumas
 y restas según cuanto se movia el x y el y. Dejé los triángulos que se encuentran dentro del círculo para el final. 
+
+![4](https://i.pinimg.com/736x/38/1a/ad/381aaddf9e68d2893520ce280fcfdf49.jpg)
 
 ### Problemas en el proceso
 Durante el proceso lo más difícil fue la generación de arcos, por los angulos que se necesitaban, los cuadriláteros, por ser irregulares pero al mismo tiempo debían ser simétricos, y además los triángulos de adentro de los círculos, ya que la mitad tenía la totalidad de sus datos diferente
