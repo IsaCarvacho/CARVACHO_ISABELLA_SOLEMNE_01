@@ -57,11 +57,3 @@ Otro problema fue fuera de lo que es programar en si, a veces por error mio, o t
 **Haz click en la imagen para ir a mi proyecto en Github**
 
 [![Proyecto](https://i.pinimg.com/736x/be/d2/99/bed299d0b2b2acba5ccacba65cf0369f.jpg)](https://editor.p5js.org/IsaCarvacho/sketches/ACN_n__FO)  
-
-2do texto palabra "destino" grande y en medio con textura o imagen  
-[Tutorial](https://cl.pinterest.com/pin/628463323005511479/)  
-Texto dos páginas (3ro), usar Y grande y texto al lado  
-[Tutorial](https://cl.pinterest.com/pin/260082947226087789/)  
-Texto 4: Efecto derramado "Quiero correr por siete lago", letras celestes. LLegan hasta paisaje de lago al pie de página (efecto photoshop)  
-[Tutorial](https://cl.pinterest.com/pin/817192294904645047/)
-
